@@ -5,4 +5,4 @@ To use AP first the user needs to run setup_AP.py to install all the packages th
 
 A detailed example is given to show underlying workings of AP
 
-I do not own the fits file mentioned although it should be considered as fair use
+I do not own the fits file mentioned although I hope it falls under fair use
